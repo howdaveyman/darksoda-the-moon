@@ -1,7 +1,7 @@
 # DarkSoda
 
 
-* The DarkSoda is a Dark Theme for Brackets!
+* The DarkSodaMoon is a Dark Theme for Brackets!
 
 
 # How to install
