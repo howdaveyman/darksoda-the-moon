@@ -1,0 +1,21 @@
+{
+    "title": "DarkSoda-the-moon",
+    "name": "dark_soda_theme",
+    "description": "The DarkSoda the moon is a Theme for Brackets!",
+    "version": "0.1.0",
+    "author": "David Mc",
+    "homepage": "https://github.com/howdaveyman/darksida-moon-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/howdaveyman/darksida-moon-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.43.0"
+    },
+    "theme": {
+        "file": "darksodamoon.css",
+        "dark": true
+    }
+}
+
